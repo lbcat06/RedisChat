@@ -1,4 +1,4 @@
-#Redis Chat Proof of Concept
+# Redis Chat Proof of Concept
 
 Redis chat is a chat implementation of jedis: a library to communicate with a redis server through a java client. It is utilizing a JedisPool which is a collection of channels using PUB/SUB functionality of redis which allows for efficient and safe transfer of data.
 
